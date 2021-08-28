@@ -1,0 +1,65 @@
+{
+    "identity": 5,
+    "name": "mahanandha",
+    "current location": "banglr",
+    "destination": "manu",
+    "isheriding": true,
+    "payment_optioons": "cash or online",
+    "car": 50,
+    "payment_options": "online",
+    "feedback": [
+        "good"
+    ],
+    "rating": [
+        "*****"
+    ],
+    "phonenumber": "1234556"
+}{
+    "identity": 6,
+    "name": "sunil",
+    "current location": "limba",
+    "destination": "kuntala",
+    "isheriding": true,
+    "payment_optioons": "cash or online",
+    "car": 35,
+    "payment_options": "offline",
+    "feedback": [
+        "ugly"
+    ],
+    "rating": [
+        "*****"
+    ],
+    "phonenumber": "78945628768"
+}{
+    "identity": 9,
+    "name": "srinivas",
+    "current location": "sarjapur",
+    "destination": "dubai",
+    "isheriding": true,
+    "payment_optioons": "cash or online",
+    "car": 12500,
+    "payment_options": "online",
+    "feedback": [
+        "bad"
+    ],
+    "rating": [
+        "*****"
+    ],
+    "phonenumber": "9553880630"
+}{
+    "identity": 10,
+    "name": "venkatesh",
+    "current location": "mahabathpur",
+    "destination": "sangareddy",
+    "isheriding": true,
+    "payment_optioons": "cash or online",
+    "car": 300,
+    "payment_options": "online",
+    "feedback": [
+        "safe and secure journey"
+    ],
+    "rating": [
+        "****"
+    ],
+    "phonenumber": "7993948903"
+}
